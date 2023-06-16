@@ -1,7 +1,7 @@
 # Prueba técnica para frontend
 
 
-## Crear una aplicación para buscar películas
+## Crear una aplicación en ReactJs para buscar películas
 
 -API a usar: https://www.omdbapi.com/ - API_KEY: 4287ad07
 
