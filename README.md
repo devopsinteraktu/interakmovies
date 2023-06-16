@@ -1,11 +1,11 @@
-#Prueba tecnica para frontend
+# Prueba tecnica para frontend
 
 
-##Crear una aplicación para buscar películas
+## Crear una aplicación para buscar películas
 
 -API a usar: https://www.omdbapi.com/ - API_KEY: 4287ad07
 
-###Requerimientos:
+### Requerimientos:
 
 Necesita mostrar un input para buscar la película y un botón para buscar.
 
@@ -13,7 +13,7 @@ Lista de películas encontradas y muestra el título, año y poster.
 
 Haz que las películas se muestren en un grid responsive.
 
-###Primera iteración
+###P rimera iteración
 
 Evitar que se haga la misma búsqueda dos veces seguidas.
 
