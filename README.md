@@ -13,7 +13,7 @@ Lista de películas encontradas y muestra el título, año y poster.
 
 Haz que las películas se muestren en un grid responsive.
 
-###P rimera iteración
+### Primera iteración
 
 Evitar que se haga la misma búsqueda dos veces seguidas.
 
