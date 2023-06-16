@@ -1,4 +1,4 @@
-# Prueba tecnica para frontend
+# Prueba técnica para frontend
 
 
 ## Crear una aplicación para buscar películas
